@@ -1,0 +1,94 @@
+body{
+	width: 100%;	
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+
+.back{
+	width: 100%;	
+	height: 2.14rem;
+
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	position: relative;
+	
+}
+.back p{
+		font-size: 0.22rem;
+}
+.top{
+	width: 7.04rem;
+	height: 1.14rem;
+	
+}
+.return{
+	width: 0.34rem;
+	height: 0.34rem;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.48rem;
+	
+}
+
+p{
+	
+	color: white;
+	font-size: 0.18rem;
+	margin-left: 0.24rem;
+	float: left;
+	margin-top: 0.94rem;
+}
+.top1{
+	width: 6.88rem;
+	height: 0.94rem;
+	background: cornflowerblue;
+	margin-left: 0.3rem;
+	margin-top: -0.5rem;
+	border-radius: 5%;
+	position: absolute;
+		
+}
+.top1-1{
+	color: darkgrey;
+	font-size: 0.16rem;
+	margin-top: 0.36rem;
+	
+	
+}
+
+.top1-2{
+	margin-top: -0.52rem;
+	margin-left: 5.85rem;
+	color: deeppink;
+}
+.top2 {
+	height: 7.3rem;
+	width: 5.84rem;
+	font-size: 0.3rem;
+
+	padding-top: 1.2rem;
+	margin-left: 1.64rem;
+}
+.top3,.top4 {
+	width: 2.18rem;
+	height: 0.62rem;
+	background: cornflowerblue;
+	color: grey;
+	margin-left: 1rem ;
+	font-size: 0.16rem;
+	border-radius: 3%;
+	text-align: center;
+	line-height: 0.62rem;
+	
+}
+.top4 {
+	
+	margin-left:4.2rem ;
+	margin-top: -0.64rem;
+	
+	
+}
+.top3 a,.top4 a{
+	
+	text-decoration: none;
+}

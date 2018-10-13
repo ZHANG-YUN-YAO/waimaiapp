@@ -1,0 +1,258 @@
+body{
+
+	padding: 0;
+	margin: 0 ;
+	position: relative;
+
+}
+
+.back{
+	width: 7.5rem;	
+	height: 1.2rem;
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	position: relative;
+	
+}
+
+
+
+.back-1{
+	
+	width: 7.5rem;	
+	height: 1.36rem;
+	margin-top: 0.28rem;
+	
+	
+}
+.back-2{
+	
+	width: 1.3rem;	
+	height: 1.3rem;
+	position: absolute;
+	left: 3.09rem;
+	top: 1.02rem;
+	
+}
+
+
+.menu-1 a{
+	float: left;
+	margin-left: 2.8rem;
+	margin-top: 1.44rem;
+	font-size: 0.24rem;
+	color: darkgrey;
+	text-decoration: none;
+}
+.menu-1 .menu22{
+
+	margin-left: 1.9rem;
+	margin-top: 0.18rem;
+}
+
+.menu-1 .menu33{
+	margin-left: 1.4rem;
+	margin-top: 0.18rem;
+
+}
+
+.menu-1 img{
+	width: 3.40rem;
+	height: 0.66rem;
+	float: left;
+	margin-left: 2.08rem;
+	margin-top: 0.22rem;
+}
+.middle {
+	
+	width: 7.5rem;
+	height: 0.26rem;
+	background-color: rgba(0,0,0,0.1);
+	float: left;	
+	margin-top: 0.37rem;
+	font-size: 0.14rem;
+	text-align: center;
+	line-height: 0.26rem;
+}
+.content .left{
+	width: 1.54rem;
+	height: 5.16rem;
+	font-size: 0.14rem;
+	float: left;
+	margin-left: 0.24rem;
+	margin-top: 0.48rem;
+	text-align: center;
+	line-height: 0.74rem;
+	background-color: rgb(228,227,227);
+}
+.content .left a  {
+	
+	line-height: 0.74rem;
+		
+}
+.content .left .hot{
+	color: white;
+	background-image: linear-gradient(90deg,rgb(144,176,288),rgb(99,205,228));
+	box-shadow: 0.01rem 0rem 0.04rem 0.04rem rgba(0,0,0,0.2);
+
+}
+	
+.left div:hover{
+	color: white;
+	background-image: linear-gradient(90deg,rgb(144,176,288),rgb(99,205,228));
+	box-shadow: 0.01rem 0rem 0.04rem 0.04rem rgba(0,0,0,0.2);
+	
+}
+.content-top>div {
+	width: 0.64rem;
+	height: 0.38rem;
+	font-size: 0.14rem;
+	color: black;
+	border-radius: 22%;
+	display: inline-block;
+	background-image: linear-gradient(90deg,rgb(144,176,288),rgb(99,205,228));
+	box-shadow: 0.01rem 0rem 0.04rem 0.04rem rgba(0,0,0,0.2);
+	display: flex;
+	justify-content: space-between;
+	float: left;
+	margin-left: 1.36rem;
+	margin-top: 0.24rem;
+	padding-left: 0.2rem;
+	line-height: 0.38rem;
+	
+}
+.content-top>.hot {
+	color: white;
+	
+}
+.content-top .up1:hover{
+	
+	color: white;
+	background-image: linear-gradient(90deg,rgb(144,176,288),rgb(99,205,228));
+	box-shadow: 0.01rem 0rem 0.04rem 0.04rem rgba(0,0,0,0.2);
+	
+}
+
+.right{
+	width: 5.34rem;	
+	height: 4.36rem;
+	border-bottom: 0.01rem solid rgba(0,0,0,0.8);
+	float: left;
+	margin-top: 0.24rem;
+	margin-left: 0.24rem;
+	
+}
+.right img{
+	
+	width: 1.31rem;
+	height: 1.31rem;
+	float: left;
+	margin-top: 0.24rem;
+	margin-left: 0.24rem;
+	
+}
+.right a{
+	float: left;
+	margin-left: 0.24rem;
+	margin-top: 0.24rem;
+	font-size: 0.24rem;
+	color: black;
+	text-decoration: none;
+}
+
+
+
+.menu-2,.menu-3,.menu-4 {
+	width: 5.4rem;	
+	height: 1.8rem;
+	background-color: rgb(255,255,255);
+	border-radius: 2%;
+	
+}
+.button  {
+	width: 0.58rem;
+	height: 0.58rem;
+	background-image: linear-gradient(90deg,rgb(144,176,288),rgb(99,205,228));
+	border-radius: 50%;
+	float: left;
+	margin-left: 0.5rem;
+	margin-top: 1rem;
+
+}
+.button2{
+	width: 0.58rem;
+	height: 0.58rem;
+	background-image: linear-gradient(90deg,rgb(144,176,288),rgb(99,205,228));
+	border-radius: 50%;
+	float: left;	
+	margin-left: 0.06rem;
+	margin-top: 1rem;
+
+}
+
+
+.button>img,.button2>img{
+	width: 0.58rem;
+	height: 0.58rem;	
+	margin-left: 0.0rem;
+	margin-top: 0.0rem;
+	}
+.button>img:hover,.button2>img:hover{
+	border-radius: 50%;
+	background-color: gainsboro;
+	
+}
+.bottom1{
+	width: 7.5rem;
+	height:0.96rem;
+	background-color: rgb(106,102,101);
+	float: left;
+	
+}
+.bottom1-left{
+	width: 5rem;
+	height:0.72rem;
+	background-color: rgb(66,56,54);
+	color: rgb(169,183,186);
+	font-size: 0.2rem;
+	padding-top: 0.18rem;	
+	padding-left: 0.24rem;
+	text-decoration: none;
+	
+}
+
+
+.bottom1-right{
+	/*width: 0.1rem;*/
+	height:0.72rem;
+	color: rgb(169,183,186);
+	font-size: 0.2rem;
+	margin-top: -0.76rem;
+	float: left;
+	margin-left: 5.48rem;
+	
+}
+
+.bottom1 .yuan1{
+	width: 1.29rem;	
+	height: 1.29rem;
+	float: left;
+	margin-left: 0.24rem;
+	margin-top: -0.32rem;
+}
+.bottom1 .yuan11{
+	width: 0.73rem;	
+	height: 0.66rem;
+	float: left;
+	margin-left: -1.04rem;
+	margin-bottom: -0.65rem;
+}
+
+.return{
+	width: 0.34rem;
+	height: 0.34rem;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.34rem;
+	
+}
+

@@ -1,0 +1,256 @@
+body{
+	width: 100%;	
+	padding: 0;
+	margin: 0;
+	position: relative;
+	
+}
+
+.back{
+	width: 7.5rem;	
+	height: 2.14rem;
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	position: relative;
+	
+}
+.top{
+	width: 7.04rem;
+	height: 3.14rem;
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	border-radius: 4%;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.48rem;
+	text-align: center;
+	color: white;
+	font-size: 0.16rem;
+	font-weight: bold;
+	float: left;
+	
+}
+.return{
+	width: 0.34rem;
+	height: 0.34rem;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.24rem;
+	
+}
+.address1{
+	float: left;
+	margin-left: 0.24rem;
+	margin-top: 0.24rem;
+}
+.address1 .go{
+	
+	width: 0.2rem;
+	height: 0.2rem;
+	position: absolute;
+	top: 0.8rem;
+}
+
+.address1 .go2{
+	width: 0.2rem;
+	height: 0.2rem;
+	position: absolute;
+	top: 1.92rem;
+}
+.address11 ,.address22{
+	
+	font-size: 0.16rem;
+	font-weight: bold;
+	float: left;
+	margin-left: 0.72rem;
+	margin-top: 0.26rem;
+	color: darkgray;
+}
+
+.address2{
+	position: absolute;
+	left: 0.24rem;
+	margin-top: 0.72rem;
+}
+.address22{
+	margin-left: 5.18rem;
+	margin-top: 0.08rem;
+}
+.middle {
+	
+	width: 100%;
+	height: 0.26rem;
+	background-color: rgba(0,0,0,0.1);
+	float: left;	
+	margin-top: 1.6rem;
+	font-size: 0.14rem;
+	text-align: center;
+	line-height: 0.26rem;
+}
+
+.menu{
+	overflow: scroll;
+	width: 7.04rem;	
+	height: 8.32rem;
+	position: absolute;
+	top: 4.18rem;
+	left: 0.24rem;
+	}
+.menu img{
+	
+	width: 1.31rem;
+	height: 1.31rem;
+	float: left;
+	margin-top: 0.24rem;
+	margin-left: 0.24rem;
+	
+}
+.menu a{
+	float: left;
+	margin-left: 0.24rem;
+	margin-top: 0.24rem;
+	font-size: 0.24rem;
+	color: black;
+	text-decoration: none;
+}
+
+
+.menu-1,.menu-2,.menu-3{
+	width: 6.96rem;	
+	height: 1.8rem;
+	background-color: rgb(255,255,255);
+	border-radius: 2%;
+	border-top: 0.01rem solid darkgray;
+	position: absolute;
+	
+}
+
+.menu-1 {
+	
+	top: 0.24rem;
+	left: 0.04rem;
+}
+.menu-2 {
+	overflow: scroll;
+	top: 2.28rem;
+	left: 0.04rem;
+}
+.menu-3 {
+	
+	top: 4.32rem;
+	left: 0.04rem;
+}
+.main p{
+	
+	font-size: 0.14rem;
+	font-weight: bold;
+	
+}
+.no1,.no2,.no3,.no3,.no4{
+	margin-left: 0.56rem;
+	margin-top: 8.24rem;
+}
+.no11{
+	color: darkgrey;
+	margin-left: 5.44rem;
+	margin-top: -0.56rem;
+}
+.no2,.no3,.no3,.no4,.no5,.no6{
+	margin-left: 0.56rem;
+	margin-top: 0.4rem;
+}
+.no22,.no33,.no44,.no7{
+	color: darkgrey;
+	margin-left: 5.44rem;
+	margin-top: -0.46rem;
+}
+
+.no7{
+	color: black;
+}
+.bottom1{
+	width: 100%;
+	height:0.96rem;
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	float: left;
+	margin-top: 10.23rem;
+	position:fixed;
+	
+}
+.bottom1-left{
+	width: 4.5rem;
+	height:0.62rem;
+	background-color: rgb(66,56,54);
+	color: rgb(169,183,186);
+	font-size: 0.2rem;
+	padding-top: 0.34rem;	
+	padding-left: 0.74rem;
+	
+}
+
+.bottom1-right{
+	width: 2.5rem;
+	height:0.72rem;
+	color: white;
+	font-size: 0.2rem;
+	margin-top: -0.6rem;
+	float: left;
+	margin-left: 6rem;
+	
+}
+
+.bottom1 .yuan1{
+	width: 1.29rem;	
+	height: 1.29rem;
+	float: left;
+	margin-left: 0.24rem;
+	margin-top: -0.32rem;
+}
+.bottom1 .yuan11{
+	width: 0.73rem;	
+	height: 0.66rem;
+	float: left;
+	margin-left: -1.04rem;
+	margin-bottom: -0.65rem;
+}
+.main {
+	overflow: scroll;
+	margin-top:-1.5rem;
+	margin-left: -0.24rem;
+}
+
+.bottom{
+	width:  100%;
+	height: 0.98rem;
+	background-color: white;
+	position:fixed;
+	bottom: 0;
+	
+	z-index: 999;
+}
+.bottom-1{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	bottom: 0;
+	left: 0.24rem;
+}
+.bottom-2{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	left: 2.56rem;
+	bottom: 0;
+}
+.bottom-3{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	left:4.64rem;
+	bottom: 0;
+}
+.bottom-4{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	left: 6.76rem;
+	bottom: 0;
+}

@@ -1,0 +1,160 @@
+body{
+	width: 100%;	
+	padding: 0;
+	margin: 0;
+	position: relative;
+	
+}
+
+.back{
+	width: 7.5rem;	
+	height: 2.14rem;
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	position: relative;
+	
+}
+.top{
+	width: 7.04rem;
+	height: 3.14rem;
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	border-radius: 4%;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.48rem;
+	color: white;
+	font-size: 0.16rem;
+	font-weight: bold;
+	float: left;
+	
+}
+.top .toptop{
+	
+	margin-left: 0.8rem;
+	margin-top: 0.2rem;
+}
+.return{
+	width: 0.34rem;
+	height: 0.34rem;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.14rem;
+	
+}
+.address1{
+	float: left;
+	margin-left: 0.24rem;
+	margin-top: 0.24rem;
+}
+.address1 .go{
+	
+	width: 0.2rem;
+	height: 0.2rem;
+	position: absolute;
+	top: 0.8rem;
+}
+
+.address1 .go2{
+	width: 0.2rem;
+	height: 0.2rem;
+	position: absolute;
+	top: 1.92rem;
+}
+.address11 ,.address22{
+	
+	font-size: 0.16rem;
+	font-weight: bold;
+	float: left;
+	margin-left: 0.72rem;
+	margin-top: 0.26rem;
+	color: darkgray;
+}
+
+.address2{
+	position: absolute;
+	left: 0.24rem;
+	margin-top: 0.72rem;
+}
+.address22{
+	margin-left: 5.18rem;
+	margin-top: 0.08rem;
+}
+.middle {
+	
+	width: 100%;
+	height: 0.26rem;
+	background-color: rgba(0,0,0,0.1);
+	float: left;	
+	margin-top: 1.6rem;
+	font-size: 0.14rem;
+	text-align: center;
+	line-height: 0.26rem;
+}
+.bottom1{
+	width: 7.5rem;
+	height:0.96rem;
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	float: left;
+
+	
+}
+.bottom1-left{
+	width: 5rem;
+	height:0.785rem;
+	background-color: rgb(66,56,54);
+	color: rgb(169,183,186);
+	font-size: 0.2rem;
+	padding-top: 0.18rem;	
+	padding-left: 0.24rem;
+	text-decoration: none;
+	
+}
+
+
+.bottom1-right{
+	
+	height:0.72rem;
+	color: white;
+	font-size: 0.3rem;
+	margin-top: -0.6rem;
+	float: left;
+	margin-left: 5.88rem;
+	
+}
+
+.bottom1 .yuan1{
+	width: 1.29rem;	
+	height: 1.29rem;
+	float: left;
+	margin-left: 0.24rem;
+	margin-top: -0.32rem;
+}
+.bottom1 .yuan11{
+	width: 0.73rem;	
+	height: 0.66rem;
+	float: left;
+	margin-left: -1.04rem;
+	margin-bottom: -0.65rem;
+}
+.bank{
+	height: 9.75rem;
+	padding-top: 0.48rem;
+}
+.bank1{
+	
+	color: grey;
+	font-size: 0.24rem;
+	text-align: center;
+	
+}
+.bank .f1{
+	width: 0.65rem;
+	height: 0.65rem;
+	text-align: left;
+	margin-left: 0.28rem;
+}
+.bank .f2{
+	width: 0.65rem;
+	height: 0.65rem;
+	text-align: right;
+	margin-left: 5.62rem;
+}

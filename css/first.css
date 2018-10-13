@@ -1,0 +1,291 @@
+
+
+body{
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+
+.back{
+	width: 100%;	
+	height: 1.2rem;
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	
+}
+
+
+
+
+.top-1{
+	width: 3.73rem;	
+	height: 0.36rem;
+	position: absolute;
+	right: 0.24rem;
+	top: 0.56rem;
+	
+}
+
+.top-2{
+	
+	width: 0.21rem;	
+	height: 0.21rem;
+	position: absolute;
+	right: 0.38rem;
+	top: 0.62rem;
+}
+
+
+
+.top-3{
+	
+	width: 0.38rem;	
+	height: 0.51rem;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.48rem;
+}
+p{
+	
+	font-size: 0.34rem;
+	color: white;
+	position: absolute;
+	left: 0.72rem;
+	top: 0.24rem;
+}
+
+.lunbo{
+	width: 7.02rem;	
+	height: 2.9rem;
+	position: absolute;
+	top: 1.44rem;
+	left: 0.24rem;
+	border: 0rem ;
+	border-radius: 2%;
+}
+.yuan1,.yuan2,.yuan3,.yuan4,.yuan5,.yuan6,.yuan7,.yuan8{
+	width: 1.29rem;	
+	height: 1.29rem;
+	position: absolute;
+}
+.yuan11,.yuan22,.yuan33,.yuan44,.yuan55,.yuan66,.yuan77,.yuan88{
+	width: 0.73rem;	
+	height: 0.66rem;
+	position: absolute;
+	top: 4.9rem;
+
+	
+}
+
+.yuan1{
+	
+	top: 4.57rem;
+	left: 0.24rem;
+}
+.yuan11{
+		left: 0.48rem;
+}
+.yuan2{
+	
+	top: 4.57rem;
+	left: 2.12rem;
+}
+.yuan22{
+	
+	left: 2.36rem;
+}
+.yuan3{
+	
+	top: 4.57rem;
+	left: 4.02rem;
+}
+.yuan33{
+	
+	left: 4.28rem;
+}
+.yuan4{
+	
+	top: 4.57rem;
+	left: 5.91rem;
+}
+.yuan44{
+	
+	left: 6.17rem;
+}
+.yuan5{
+
+	top: 6.57rem;
+	left: 0.24rem;
+}
+.yuan55{
+	
+	top: 6.88rem;
+	left: 0.48rem;
+}
+.yuan6{
+	
+	top: 6.57rem;
+	left: 2.12rem;
+}
+.yuan66{
+	
+	top: 6.88rem;
+	left: 2.36rem;
+}
+.yuan7{
+	
+	top: 6.57rem;
+	left: 4.02rem;
+}
+.yuan77{
+	
+	top: 6.88rem;
+	left: 4.28rem;
+}
+.yuan8{
+	
+	top: 6.57rem;
+	left: 5.91rem;
+}
+.yuan88{
+	
+	top: 6.88rem;
+	left: 6.17rem;
+}
+.main>p {
+	
+	color: black;
+	margin-left: 0.28rem;
+	margin-top: 1.38rem;
+	
+}
+
+.middle-1{
+	
+	width: 0.5rem;	
+	height: 0.04rem;
+	position: absolute;
+	top: 8.63rem;
+	left: 3.53rem;
+}
+.middle-2{
+	
+	width: 7.04rem;	
+	height: 3.93rem;
+	position: absolute;
+	border-radius: 2%;
+	top: 8.87rem;
+	left: 0.24rem;
+}
+.middle-3{
+	
+	width: 3.70rem;	
+	height: 0.36rem;
+	position: absolute;
+	top: 13.28rem;
+	left: 1.71rem;
+}
+.middle-4{
+	
+	
+	width: 7.03rem;	
+	height: 0.35rem;
+	position: absolute;
+	top: 13.96rem;
+	left: 0.24rem;
+	
+}
+.menu{
+	overflow: scroll;
+	padding: 0 0.24rem;
+	margin: 0 0 0.98rem;
+	width: 7rem;	
+	height: 6.32rem;
+	background-color: rgb(223,214,214);
+	position: absolute;
+	top: 14.68rem;
+	left: 0;
+}
+.menu img{
+	
+	width: 1.31rem;
+	height: 1.31rem;
+	float: left;
+	margin-top: 0.24rem;
+	margin-left: 0.24rem;
+	
+}
+.menu a{
+	float: left;
+	margin-left: 0.24rem;
+	margin-top: 0.24rem;
+	font-size: 0.24rem;
+	color: black;
+	text-decoration: none;
+}
+
+.menu .star{
+	
+	width: 1.25rem;
+	height: 0.25rem;
+	position: absolute;
+	float: left;
+	top: 0.34rem;
+	margin-left: 0.02rem;
+}
+.menu-1,.menu-2,.menu-3{
+	position: relative;
+	width: 6.96rem;	
+	height: 1.8rem;
+	background-color: rgb(255,255,255);
+	border-radius: 2%;
+	margin-top: 0.24rem;
+}
+.bottom{
+	width:  100%;
+	height: 0.98rem;
+	background-color: white;
+	position:fixed;
+	bottom: 0;
+	
+	z-index: 999;
+}
+.bottom-1{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+/*	top: 21.2rem;*/
+	bottom: 0;
+	left: 0.24rem;
+}
+.bottom-2{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	/*top: 21.2rem;*/
+	left: 2.56rem;
+		bottom: 0;
+}
+.bottom-3{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	/*top: 21.2rem;*/
+	left:4.64rem;
+		bottom: 0;
+}
+.bottom-4{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	/*top: 21.2rem;*/
+	left: 6.76rem;
+		bottom: 0;
+}
+/*.scroll {
+	
+	background:red;
+	width: 100%;
+	height: 6.8rem;
+	overflow: hidden;
+	margin-top: 7rem;	
+}*/

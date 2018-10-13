@@ -1,0 +1,86 @@
+body{
+	width: 100%;	
+	padding: 0;
+	margin: 0;
+	position: relative;
+	
+}
+
+.back{
+	width: 7.5rem;	
+	height: 1.4rem;
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	position: relative;
+	
+}
+.top{
+	width: 7.04rem;
+	height: 0.8rem;
+	background-image:linear-gradient(90deg,rgb(38,93,246),rgb(39,161,251));
+	border-radius: 4%;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.48rem;
+	text-align: center;
+	color: white;
+	font-size: 0.16rem;
+	font-weight: bold;
+	float: left;
+
+	
+}
+.top p{
+	font-size: 0.24rem;
+}
+.return{
+	width: 0.34rem;
+	height: 0.34rem;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.24rem;
+	
+}
+.bottom{
+	width:  100%;
+	height: 0.98rem;
+	background-color: white;
+	position:fixed;
+	bottom: 0;
+	
+	z-index: 999;
+}
+.bottom-1{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	bottom: 0;
+	left: 0.24rem;
+}
+.bottom-2{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	left: 2.56rem;
+	bottom: 0;
+}
+.bottom-3{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	left:4.64rem;
+	bottom: 0;
+}
+.bottom-4{
+	width: 0.5rem;	
+	height: 0.8rem;
+	position: absolute;
+	left: 6.76rem;
+	bottom: 0;
+}
+.top .f3{
+	width: 6.78rem;
+	height: 1.82rem;
+	margin-top: 0.45rem;
+	margin-left: -0.24rem;
+	padding-top: 0.35rem;
+}
